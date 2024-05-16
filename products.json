@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Laptop",
+    "image": "./images/blue-little-girl-LA.jpg",
+    "category": "electronics",
+    "price": 999.99
+  },
+  {
+    "name": "T-shirt",
+    "image": "./images/girl-happy-handrawn-girl.jpg",
+    "category": "clothing",
+    "price": 19.99
+  },
+  {
+    "name": "Book",
+    "image": "./images/graffiti.jpg",
+    "category": "books",
+    "price": 14.99
+  },
+  {
+    "name": "Smartphone",
+    "image": "./images/simple-black-design.jpg",
+    "category": "electronics",
+    "price": 699.99
+  },
+  {
+    "name": "Jeans",
+    "image": "./images/lastSupperDesign.jpg",
+    "category": "clothing",
+    "price": 39.99
+  },
+  {
+    "name": "Headphones",
+    "image": "./images/dog-shirt.jpg",
+    "category": "electronics",
+    "price": 129.99
+  },
+  {
+    "name": "Headphones",
+    "image": "./images/cat-shirt.jpg",
+    "category": "electronics",
+    "price": 129.99
+  },
+  {
+    "name": "Novel",
+    "image": "./images/car-shirt.jpg",
+    "category": "books",
+    "price": 9.99
+  }
+]

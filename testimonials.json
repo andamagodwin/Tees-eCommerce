@@ -1,0 +1,17 @@
+[
+    {
+        "name":"Sarah K.",
+        "image":"./images/testimonial-profiles/woman-profile.jpeg",
+        "testimony":"I used to dread t-shirt shopping online, never knowing if the size would fit or the quality would hold up.  Tees changed that! Their size chart is accurate, and the material feels fantastic.  Love the variety of designs - found the perfect birthday gift for my brother (and a cheeky one for myself!).  Fast shipping and great customer service too!"
+    },
+    {
+        "name":"John S.",
+        "image":"./images/testimonial-profiles/profile1.jpeg",
+        "testimony":"Tees is my go-to for awesome t-shirts! They have such a unique selection of designs, from hilarious to heartwarming. Plus, the shirts are super soft and comfy.  Last order arrived fast and exactly what I expected. Definitely recommend!"
+    },
+    {
+        "name":"Mia D.",
+        "image":"./images/testimonial-profiles/woman-profile-3.jpeg",
+        "testimony":"Forget boring basic tees! Tees is where it's at.  Their designs are conversation starters, always sparking compliments wherever I wear them.  Top quality material that washes well, no shrinking disasters here.  It's like they know exactly what I want in a t-shirt.  Obsessed!"
+    }
+]
