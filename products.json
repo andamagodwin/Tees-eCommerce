@@ -1,50 +1,50 @@
 [
   {
-    "name": "Laptop",
+    "name": "Dodger t-shirt",
     "image": "./images/blue-little-girl-LA.jpg",
-    "category": "electronics",
+    "category": "Men",
     "price": 999.99
   },
   {
-    "name": "T-shirt",
+    "name": "kids generic",
     "image": "./images/girl-happy-handrawn-girl.jpg",
-    "category": "clothing",
+    "category": "Kids",
     "price": 19.99
   },
   {
-    "name": "Book",
+    "name": "Graffiti Monalisa",
     "image": "./images/graffiti.jpg",
-    "category": "books",
+    "category": "Women",
     "price": 14.99
   },
   {
-    "name": "Smartphone",
+    "name": "Minimalistic",
     "image": "./images/simple-black-design.jpg",
-    "category": "electronics",
+    "category": "Men",
     "price": 699.99
   },
   {
-    "name": "Jeans",
+    "name": "Last supper",
     "image": "./images/lastSupperDesign.jpg",
-    "category": "clothing",
+    "category": "Men",
     "price": 39.99
   },
   {
-    "name": "Headphones",
+    "name": "Pet special",
     "image": "./images/dog-shirt.jpg",
-    "category": "electronics",
+    "category": "Women",
     "price": 129.99
   },
   {
-    "name": "Headphones",
+    "name": "Meow special",
     "image": "./images/cat-shirt.jpg",
-    "category": "electronics",
+    "category": "Women",
     "price": 129.99
   },
   {
-    "name": "Novel",
+    "name": "Mecha-zero",
     "image": "./images/car-shirt.jpg",
-    "category": "books",
+    "category": "Men",
     "price": 9.99
   }
 ]
